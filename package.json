@@ -1,0 +1,12 @@
+{
+  "name": "aventura-2d",
+  "version": "1.0.0",
+  "description": "Jogo de plataforma 2D com Node.js e HTML5 Canvas",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
